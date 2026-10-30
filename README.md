@@ -5,7 +5,7 @@ I am a student at the **University of Michigan** pursuing my passion for technol
 
 - 🎓 **Education:** Student at the University of Michigan (Go Blue! 〽️)
 - 💻 **Main Projects:** Explore my featured work on my [Portfolio Website](https://404found2.github.io/Portfolio/)
-- 📚 **Academic Code:** Check out my specialized university projects in my [umich-coursework Repository](#umich-coursework-placeholder)
+- 📚 **Academic Code:** Check out my specialized university projects in my [Umich-Coursework Repository](#umich-coursework-placeholder)
 - 🤝 **Connect:** Let's stay in touch via [LinkedIn](https://www.linkedin.com/in/vidya-vuyyuru/)
 
 ---
